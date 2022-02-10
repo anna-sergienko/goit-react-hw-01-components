@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/anna-sergienko/goit-react-hw-01-components.git/static/css/main.073c9b0a.css",
-    "main.js": "/anna-sergienko/goit-react-hw-01-components.git/static/js/main.cdfe8c71.js",
-    "static/js/787.84e13687.chunk.js": "/anna-sergienko/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js",
-    "static/media/logo.svg": "/anna-sergienko/goit-react-hw-01-components.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/anna-sergienko/goit-react-hw-01-components.git/index.html",
-    "main.073c9b0a.css.map": "/anna-sergienko/goit-react-hw-01-components.git/static/css/main.073c9b0a.css.map",
-    "main.cdfe8c71.js.map": "/anna-sergienko/goit-react-hw-01-components.git/static/js/main.cdfe8c71.js.map",
-    "787.84e13687.chunk.js.map": "/anna-sergienko/goit-react-hw-01-components.git/static/js/787.84e13687.chunk.js.map"
+    "main.css": "/goit-react-hw-01-components/static/css/main.fc058c16.css",
+    "main.js": "/goit-react-hw-01-components/static/js/main.241ab962.js",
+    "static/js/787.84e13687.chunk.js": "/goit-react-hw-01-components/static/js/787.84e13687.chunk.js",
+    "index.html": "/goit-react-hw-01-components/index.html",
+    "main.fc058c16.css.map": "/goit-react-hw-01-components/static/css/main.fc058c16.css.map",
+    "main.241ab962.js.map": "/goit-react-hw-01-components/static/js/main.241ab962.js.map",
+    "787.84e13687.chunk.js.map": "/goit-react-hw-01-components/static/js/787.84e13687.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cdfe8c71.js"
+    "static/css/main.fc058c16.css",
+    "static/js/main.241ab962.js"
   ]
 }
